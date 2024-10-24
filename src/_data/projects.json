@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Education",
+    "description": "Educational Background",
+    "image": "/projectImages/Education.png",
+    "image2": "/projectImages/study.jpeg",
+    "body": "I successfully completed my Higher Secondary Education with First Division in the Science stream, specializing in Physics, Chemistry, Mathematics, and Biology (PCMB) at DAV Public School, West Bengal.\n\nCurrently, I am enrolled in the first year of a Bachelor of Technology (BTech) program, specializing in Computer Science and Engineering (CSE).",
+    "bgcolor": "var(--hl2-color)",
+    "id": "1"
+  },
+  {
+    "title": "Experience",
+    "description": "Field Experience",
+    "image": "/projectImages/Experience.png",
+    "image2": "/projectImages/Mountains.jpeg",
+    "body": "In my first year of the Bachelor of Technology (B.Tech) program, specializing in Computer Science and Engineering (CSE), I have proactively engaged in gathering knowledge across diverse fields within the domain. I have undertaken several projects, conducted research on various technological topics, and gained practical experience in working with Arduino. This exposure has not only strengthened my understanding of electronics and programming but also enhanced my problem-solving and technical skills, laying a strong foundation for my future studies.",
+    "bgcolor": "var(--hl-color)",
+    "id": "2"
+  },
+  {
+    "title": "Acheivements",
+    "description": "Awards and Acheivements",
+    "image": "/projectImages/Acheivements.png",
+    "image2": "/projectImages/teamcelebrating.jpeg",
+    "body": "I am pleased to share that I have received certificates for my active participation in several Hackathons and quiz competitions. These events have significantly contributed to my personal and professional development by allowing me to collaborate with peers, develop innovative solutions, and apply my technical skills in real-world scenarios.\n\nParticipating in quiz competitions has also tested my knowledge across various subjects, fostering a spirit of healthy competition and teamwork. Overall, these experiences have enhanced my problem-solving abilities and critical thinking skills, which I look forward to building upon as I continue my studies in Computer Science and Engineering.",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Projects",
+    "description": "Worked Projects",
+    "image": "/projectImages/Projects.png",
+    "image2": "/projectImages/javascript.jpeg",
+    "body": "I am pleased to report that I have successfully developed a live working model of a physics concept using Arduino. This project offered me an invaluable opportunity to apply theoretical knowledge in a practical context.\n\nThe experience was both enlightening and informative, significantly enhancing my understanding of electronics and programming. Through this endeavor, I acquired hands-on skills in circuit design and implementation, which have contributed to my technical expertise. I look forward to utilizing this knowledge in future projects as I progress in my studies in Computer Science and Engineering.",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Events",
+    "description": "Attended Events",
+    "image": "/projectImages/Events.png",
+    "image2": "/projectImages/Events.jpeg",
+    "body": "I am pleased to share that I have actively participated in various events during my time at college. Notably, I took part in a quiz competition conducted by Jigisha, which challenged my knowledge and analytical skills. Additionally, I participated in several Hackathons, where I collaborated with fellow students to develop innovative solutions to real-world problems.\n\nFurthermore, I have engaged in various cultural events on campus, which have enriched my college experience by fostering a sense of community and teamwork. These diverse experiences have not only broadened my horizons but have also contributed significantly to my personal and professional development. I look forward to continuing my involvement in such events as I advance in my academic journey.",
+    "bgcolor": "#e47911",
+    "id": "5"
+  },
+
+  {
+    "title": "Presentation",
+    "description": "Poster/Paper Presentations",
+    "image": "/projectImages/Presentation.png",
+    "image2": "/projectImages/workplanner.jpeg",
+    "body": "I am pleased to share that I recently collaborated with my group mates to develop a comprehensive presentation on semiconductors as part of our Basic Electrical course. This project enabled us to explore the fundamental principles and applications of semiconductor technology, significantly enhancing our understanding of this critical topic.\n\nIn addition, we prepared an economic presentation focused on the marketing and sale of electronic products. This aspect involved analyzing market trends, pricing strategies, and consumer behavior, providing us with valuable insights into the business side of technology.\n\nThis collaborative endeavor has greatly improved our research and presentation skills while expanding our knowledge of both technical and economic aspects within the field of electronics. I look forward to applying the insights gained from these projects to my future academic endeavors.",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
