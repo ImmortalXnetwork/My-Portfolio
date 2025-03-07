@@ -30,7 +30,7 @@ const ContactInfo = ({ name, email, location }) => {
     >
       <h4 className="contentTitle">Connect With Me</h4>
       <p className="infoDescription">
-        As a B.Tech student specializing in Computer Science and Engineering, I'm always eager to connect and collaborate on exciting projects. Whether you have questions, want to discuss ideas, or are looking for assistance, feel free to reach out! I'm looking forward to hearing from you.
+        As a B.E. final year student specializing in Electrical and Electronics Engineering, I’m always excited to connect and collaborate on innovative projects. Whether you have questions, want to discuss new ideas, or need assistance with your work, feel free to reach out! I look forward to connecting and collaborating on interesting challenges and opportunities.
       </p>
       <ul className="listInfo">
         {/* Display Name */}
