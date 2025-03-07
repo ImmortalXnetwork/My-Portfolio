@@ -59,7 +59,7 @@ const Hero = ({ name }) => {
             onInit={(typewriter) => {
               typewriter
                 .changeDelay(50)
-                .typeString("I am an 18-year-old B-Tech student specializing in Computer Science, currently in my first year. I am passionate about technology, coding, and innovation.")
+                .typeString("I am a 22-year-old B.E. final year student specializing in Electrical and Electronics Engineering. I am passionate about electrical systems, electronics, and innovative technology. Always eager to learn, collaborate, and work on exciting projects, I’m open to discussions, idea exchanges, and exploring new opportunities in the field. Feel free to reach out!")
                 .start();
             }}
           />
