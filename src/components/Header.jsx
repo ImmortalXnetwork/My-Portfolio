@@ -26,7 +26,7 @@ const Header = () => {
             whileTap={{ scale: 0.9 }}
             className="logo"
             src={logo}
-            alt="Anushri Pramanik' Logo"
+            alt="Mohammed Fazal' Logo"
             style={{ width: "100px", height: "auto" }} // Slightly reduced size
           />
         </motion.div>
