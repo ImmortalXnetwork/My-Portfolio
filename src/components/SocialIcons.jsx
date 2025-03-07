@@ -21,7 +21,7 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} href="https://github.com/sheeanu">
+      <a className="icon" style={styles.icon} href="https://github.com/ImmortalXnetwork">
         {/* GitHub Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -29,10 +29,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.8, duration: 0.5, type: "spring" }}
           className="fa-brands fa-github"
           aria-hidden="true"
-          title="Anushri Pramanik's GitHub Profile"
+          title="Mohammed Fazal's GitHub Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/anushri-pramanik/">
+      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/#/">
         {/* LinkedIn Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -40,10 +40,10 @@ const SocialIcons = () => {
           transition={{ delay: 1.7, duration: 0.5, type: "spring" }}
           className="fa-brands fa-linkedin"
           aria-hidden="true"
-          title="Anushri Pramanik's LinkedIn Profile"
+          title="Mohammed Fazal's LinkedIn Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.instagram.com/anuxhrii/">
+      <a className="icon" style={styles.icon} href="https://www.instagram.com/Fazal_faiz.07/">
         {/* Instagram Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -51,7 +51,7 @@ const SocialIcons = () => {
           transition={{ delay: 1.6, duration: 0.5, type: "spring" }}
           className="fa-brands fa-instagram"
           aria-hidden="true"
-          title="Anushri Pramanik's Instagram Profile"
+          title="Mohammed Fazal's Instagram Profile"
         ></motion.i>
       </a>
     </div>
