@@ -18,7 +18,7 @@ const Footer = () => {
 
       {/* Footer credit */}
       <p>
-        <span>▷</span> Designed and built by Anushri Pramanik with the help of Artificial Intelligence &copy; {currentYear}
+        <span>▷</span> Designed and built by Mohammed Fazal with the help of Artificial Intelligence &copy; {currentYear}
       </p>
       <p>All views are my own</p>
     </footer>
