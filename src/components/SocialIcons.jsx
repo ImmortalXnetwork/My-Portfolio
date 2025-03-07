@@ -32,15 +32,15 @@ const SocialIcons = () => {
           title="Mohammed Fazal's GitHub Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/#/">
-        {/* LinkedIn Icon */}
+      <a className="icon" style={styles.icon} href="https://www.telegram.com/Fazal000001/">
+        {/* Telegram Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 1.7, duration: 0.5, type: "spring" }}
-          className="fa-brands fa-linkedin"
+          className="fa-brands fa-telegram"
           aria-hidden="true"
-          title="Mohammed Fazal's LinkedIn Profile"
+          title="Mohammed Fazal's Telegram Profile"
         ></motion.i>
       </a>
       <a className="icon" style={styles.icon} href="https://www.instagram.com/Fazal_faiz.07/">
