@@ -37,9 +37,9 @@ import PageNotFound from "./pages/404/PageNotFound";
 function App() {
   // Personal details for the user
   const personalDetails = {
-    name: "Anushri Pramanik",
-    location: "West Bengal, India",
-    email: "AnushriPramanik22@gmail.com",
+    name: "Mohammed Fazal",
+    location: "Karnataka, India",
+    email: "Contact@fazal.info",
     brand:
       "My unique blend of technical expertise, creative thinking, and background in psychology allows me to approach each project with a deep understanding of the end user's perspective, resulting in highly effective user-centred digital products.",
   };
